@@ -1,0 +1,60 @@
+author: "Mine Dogucu"
+institute: "University of California Irvine"
+department: "Department of Statistics"
+
+course:
+  code: "STATS 67"
+  short-title: "Stats 4 CS"
+  long-title: "Introduction to Probability and Statistics for Computer Science"
+  term: "Fall"
+  year: "2023"
+  site: "https://www.stats4cs.cpm/"
+  github-org: "https://github.com/mdogucu/stats67-fa23-website"
+  discussion: "https://edstem.org/us/courses/47399"
+  lms: "https://canvas.eee.uci.edu/courses/56694/gradebook"
+  gradescope: "https://www.gradescope.com/courses/621306"
+  
+instructor:
+  name: "Dr. Mine Dogucu"
+  email: "mdogucu@uci.edu"
+  website: "https://www.minedogucu.com"
+  pronoun: "she/they"
+  photo: "img/mine-dogucu.jpeg"
+  audio: "mine-dogucu.mp3"
+  office-hours: "W 4:00 - 5:00 pm in person and online"
+  zoom: "https://uci.zoom.us/j/96313388256"
+  office : "DBH 2204"
+  
+  
+ta1: 
+  name: Yang Meng
+  email: "mengy13@uci.edu"
+  pronoun: "he/him"
+  photo: "img/ta1.jpeg"
+  audio: "ta1.mp3"
+  office-hours: "TBD"
+  office: "DBH 2013"
+  zoom: "TBD"
+  
+  
+ta2: 
+  name: Jizhi Zhang
+  email: "jizhiz@uci.edu"
+  pronoun: "he/him"
+  photo: "img/ta2.png"
+  audio: "ta2.mp3"
+  office-hours: "TBD"
+  office: "DBH 2013"
+  zoom: "TBD"
+  
+ta3: 
+  name: Christian Bernal Zelaya
+  email: "cbernalz@uci.edu"
+  pronoun: "he/him"
+  photo: "img/ta3.jpeg"
+  audio: "ta3.mp3"
+  office-hours: "TBD"
+  office: "DBH 2013"
+  zoom: "TBD"
+  
+

@@ -1,0 +1,3 @@
+Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
+
+**Prerequisite**: [Math 2B](http://catalogue.uci.edu/search/?P=MATH%202B)

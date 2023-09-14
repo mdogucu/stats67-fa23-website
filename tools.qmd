@@ -1,0 +1,26 @@
+---
+tox: true
+---
+
+## Textbook
+
+[OpenIntro](https://leanpub.com/os) We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to.
+
+## Programming Tools
+
+**R and RStudio** We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language.
+
+
+## Other Software
+
+We will use [an online forum]({{< var course.discussion >}}) where you can ask and answer questions. Please read [guidelines](policies.html#online-discussion) for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.
+
+We will use [Gradescope]({{< var course.gradescope >}}) for most of the assignments. You will get instructions on how to use Gradescope.
+
+We will use [Canvas]({{< var course.lms >}}) for keeping track of grades.
+
+If you are not on campus, you will need to connect through [VPN](https://www.oit.uci.edu/help/vpn/) to access resources that are only accessible on campus. Follow the instructions on the link.
+
+      
+		
+	

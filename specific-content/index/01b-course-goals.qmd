@@ -1,0 +1,7 @@
+By the end of this course you will be able to:
+
+- By the end of this course you will be able to:
+- summarize data using descriptive statistics and visualizations;
+- select appropriate probability models and estimate models' parameters;
+- make conclusions about population using sample data, by applying statistical inference techniques;
+- use R for basic probability and statistics tasks.
