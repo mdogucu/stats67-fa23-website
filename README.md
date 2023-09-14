@@ -1,5 +1,5 @@
-## STATS 6
-<img src="img/logo.png" alt="introdata.science logo with a human figure juggling charts, a computer, a database and a book" width="150" align = "right"/>
+## STATS 67
+<img src="img/logo.png" alt="Logo that reads STATS 67 with an anteater illustration on the background" width="150" align = "right"/>
 
 
   
@@ -13,9 +13,9 @@ Fall 2023
     
 <hr>
 
-This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices. 
+Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
 
-Course website is hosted at [introdata.science](https://introdata.science).
+Course website is hosted at [stats4cs.com](https://stats4cs.com).
 
 <hr>
 
