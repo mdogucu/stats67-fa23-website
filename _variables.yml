@@ -32,7 +32,7 @@ ta1:
   pronoun: "he/him"
   photo: "img/ta1.jpeg"
   audio: "ta1.mp3"
-  office-hours: "TBD"
+  office-hours: "M 9:00 - 10 am and Th 9:30 - 10: 30 am in person and online"
   office: "DBH 2013"
   zoom: "TBD"
   
@@ -43,7 +43,7 @@ ta2:
   pronoun: "he/him"
   photo: "img/ta2.png"
   audio: "ta2.mp3"
-  office-hours: "TBD"
+  office-hours: "M 2 - 3 pm and F 4 - 5 pm in person and online"
   office: "DBH 2013"
   zoom: "TBD"
   
@@ -53,8 +53,6 @@ ta3:
   pronoun: "he/him"
   photo: "img/ta3.jpeg"
   audio: "ta3.mp3"
-  office-hours: "TBD"
-  office: "DBH 2013"
-  zoom: "TBD"
+
   
 

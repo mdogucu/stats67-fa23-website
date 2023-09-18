@@ -100,11 +100,7 @@ Office Hours: <br> {{< var ta2.office-hours >}}
      style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
      
 
-Office Hours: <br> {{< var ta3.office-hours >}} 
 
-{{< fa building-columns >}} {{< var ta3.office >}}
-
-[{{< fa video >}}  Zoom]({{< var ta3.zoom >}})
 
 
 
