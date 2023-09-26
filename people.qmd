@@ -89,7 +89,7 @@ Office Hours: <br> {{< var ta2.office-hours >}}
 
 ::: {.column width="45%"}
 
-**Teaching Assistant (TA) / Reader**
+**Teaching Assistant (TA)**
 
 [{{< fa volume-high >}}](audio/ta3.mp3) {{< var ta3.name >}}   
 {{< var ta3.pronoun >}}
