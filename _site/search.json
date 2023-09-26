@@ -4,14 +4,14 @@
     "href": "schedule.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "TBA"
+    "text": "Sept 28 - Oct 1\n Introduction to STATS 67 and Data"
   },
   {
     "objectID": "schedule.html#week-0",
     "href": "schedule.html#week-0",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "TBA"
+    "text": "Sept 28 - Oct 1\n Introduction to STATS 67 and Data"
   },
   {
     "objectID": "schedule.html#week-1",
@@ -175,48 +175,6 @@
     "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  W 4:00 - 5:00 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Yang Meng\nhe/him\nmengy13@uci.edu\n\nOffice Hours:  M 9:00 - 10 am and Th 9:30 - 10: 30 am in person and online\n DBH 2013\n Zoom\n\n\n\n\n\nTeaching Assistant (TA)\n Jizhi Zhang\nhe/him\njizhiz@uci.edu\n\nOffice Hours:  M 2 - 3 pm and F 4 - 5 pm in person and online\n DBH 2013\n Zoom\n\n\n\nTeaching Assistant (TA) / Reader\n Christian Bernal Zelaya\nhe/him\ncbernalz@uci.edu"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Welcome to STATS 67 - Introduction to Probability and Statistics for Computer Science in Fall 2023\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science.\nPrerequisite: Math 2B"
-  },
-  {
-    "objectID": "index.html#typical-weekly-workflow",
-    "href": "index.html#typical-weekly-workflow",
-    "title": "Stats 4 CS",
-    "section": "Typical Weekly Workflow",
-    "text": "Typical Weekly Workflow\n\n\n\n\n\n  \n    \n        \n           Sunday 11:59 pm | Previous week's homework due \n           Monday am | You all attend lecture \n           Monday 2 - 3 pm | Jizhi holds office hours. \n           Tuesday 9 - 10 am | Yang holds office hours \n           Wednesday am | You all attend lecture \n           Wednesday pm | Some of you attend discussion \n           Wednesday 4 - 5 pm | Dr. Dogucu holds office hours \n           Thursday 9:30 - 10:30 am  | Yang holds office hours \n           Thursday pm | Some of you attend discussion \n           Friday 4 - 5 pm | Jizhi holds office hours \n            \n        \n    \n  \n\n\n\nMidterm exam on Nov 1, 2023 during lecture time in class\nFinal exam\nFor Lecture A group on Mon, Dec 11 at 8:00-10:00am\nFor Lecture B group on Wed, Dec 13 at 8:00-10:00am"
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "OpenIntro We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to."
-  },
-  {
-    "objectID": "tools.html#textbook",
-    "href": "tools.html#textbook",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "OpenIntro We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to."
-  },
-  {
-    "objectID": "tools.html#programming-tools",
-    "href": "tools.html#programming-tools",
-    "title": "Stats 4 CS",
-    "section": "Programming Tools",
-    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language."
-  },
-  {
-    "objectID": "tools.html#other-software",
-    "href": "tools.html#other-software",
-    "title": "Stats 4 CS",
-    "section": "Other Software",
-    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for most of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades.\nIf you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus. Follow the instructions on the link."
-  },
-  {
     "objectID": "policies.html",
     "href": "policies.html",
     "title": "Stats 4 CS",
@@ -280,11 +238,165 @@
     "text": "Course Material Distribution\nSelling, preparing, or distributing for any commercial purpose course lecture notes or video or audio recordings of any course unless authorized by the University in advance and explicitly permitted by the course instructor in writing. The unauthorized sale or commercial distribution of course notes or recordings by a student is a violation of these Policies whether or not it was the student or someone else who prepared the notes or recordings."
   },
   {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "OpenIntro We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to."
+  },
+  {
+    "objectID": "tools.html#textbook",
+    "href": "tools.html#textbook",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "OpenIntro We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to."
+  },
+  {
+    "objectID": "tools.html#programming-tools",
+    "href": "tools.html#programming-tools",
+    "title": "Stats 4 CS",
+    "section": "Programming Tools",
+    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language."
+  },
+  {
+    "objectID": "tools.html#other-software",
+    "href": "tools.html#other-software",
+    "title": "Stats 4 CS",
+    "section": "Other Software",
+    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for most of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades.\nIf you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus. Follow the instructions on the link."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Welcome to STATS 67 - Introduction to Probability and Statistics for Computer Science in Fall 2023\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science.\nPrerequisite: Math 2B"
+  },
+  {
+    "objectID": "index.html#typical-weekly-workflow",
+    "href": "index.html#typical-weekly-workflow",
+    "title": "Stats 4 CS",
+    "section": "Typical Weekly Workflow",
+    "text": "Typical Weekly Workflow\n\n\n\n\n\n  \n    \n        \n           Sunday 11:59 pm | Previous week's homework due \n           Monday am | You all attend lecture \n           Monday 2 - 3 pm | Jizhi holds office hours. \n           Tuesday 9 - 10 am | Yang holds office hours \n           Wednesday am | You all attend lecture \n           Wednesday pm | Some of you attend discussion \n           Wednesday 4 - 5 pm | Dr. Dogucu holds office hours \n           Thursday 9:30 - 10:30 am  | Yang holds office hours \n           Thursday pm | Some of you attend discussion \n           Friday 4 - 5 pm | Jizhi holds office hours \n            \n        \n    \n  \n\n\n\nMidterm exam on Nov 1, 2023 during lecture time in class\nFinal exam\nFor Lecture A group on Mon, Dec 11 at 8:00-10:00am\nFor Lecture B group on Wed, Dec 13 at 8:00-10:00am"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#quarto",
+    "href": "slides/templates/slide-template.html#quarto",
+    "title": "Template for All Slides",
+    "section": "Quarto",
+    "text": "Quarto\nHi Quarto! Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#bullets",
+    "href": "slides/templates/slide-template.html#bullets",
+    "title": "Template for All Slides",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code",
+    "href": "slides/templates/slide-template.html#code",
+    "title": "Template for All Slides",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#more-code",
+    "href": "slides/templates/slide-template.html#more-code",
+    "title": "Template for All Slides",
+    "section": "More code",
+    "text": "More code\n\nlibrary(magrittr)\nlm(mpg ~ am, data = mtcars) %&gt;% \n  broom::tidy()\n\n# A tibble: 2 × 5\n  term        estimate std.error statistic  p.value\n  &lt;chr&gt;          &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;    &lt;dbl&gt;\n1 (Intercept)    17.1       1.12     15.2  1.13e-15\n2 am              7.24      1.76      4.11 2.85e- 4"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#highlight-specific-lines-of-code",
+    "href": "slides/templates/slide-template.html#highlight-specific-lines-of-code",
+    "title": "Template for All Slides",
+    "section": "Highlight Specific Lines of Code",
+    "text": "Highlight Specific Lines of Code\n\na &lt;- 1\nb &lt;- 1\na + b\n\n[1] 2"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code-annotation",
+    "href": "slides/templates/slide-template.html#code-annotation",
+    "title": "Template for All Slides",
+    "section": "Code Annotation",
+    "text": "Code Annotation\n\nlibrary(beepr)\n1beep()\n2# a comment\n\n\n1\n\nHere we can explain what that line of code is doing.\n\n2\n\nHere we can explain that the second line is just a comment."
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#math",
+    "href": "slides/templates/slide-template.html#math",
+    "title": "Template for All Slides",
+    "section": "Math",
+    "text": "Math\nWe can add a centered equation\n\\[x+7\\beta\\]\nor left aligned:\n\\(x+7 +\\mu\\)"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#figure",
+    "href": "slides/templates/slide-template.html#figure",
+    "title": "Template for All Slides",
+    "section": "Figure",
+    "text": "Figure\nWe can add an a figure with a caption and an alternate text\n\nThis is the figure caption"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#incremental-text",
+    "href": "slides/templates/slide-template.html#incremental-text",
+    "title": "Template for All Slides",
+    "section": "Incremental Text",
+    "text": "Incremental Text\nTo display text incrementally, three dots with spaces can be used on a new line . . .\n\nBy default, qmd displays bullet points and enumerated text (i.e., lists) incrementally, this can ben changed in the YAML (top) section of the document by setting incremental: false.\n\n\nOr it can be turned off for a specific part of the document\n\n\n1st Item\n2nd Item"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#divide-slide-into-columns",
+    "href": "slides/templates/slide-template.html#divide-slide-into-columns",
+    "title": "Template for All Slides",
+    "section": "Divide slide into columns",
+    "text": "Divide slide into columns\n\n\nLeft column\n\nRight column"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code-and-output-in-two-columns",
+    "href": "slides/templates/slide-template.html#code-and-output-in-two-columns",
+    "title": "Template for All Slides",
+    "section": "Code and Output in Two Columns",
+    "text": "Code and Output in Two Columns\n\n\nsummary(mtcars)\n\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code-and-output-in-deparate-slides",
+    "href": "slides/templates/slide-template.html#code-and-output-in-deparate-slides",
+    "title": "Template for All Slides",
+    "section": "Code and Output in Deparate Slides",
+    "text": "Code and Output in Deparate Slides\n\nsummary(mtcars)"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code-and-output-in-deparate-slides-output",
+    "href": "slides/templates/slide-template.html#code-and-output-in-deparate-slides-output",
+    "title": "Template for All Slides",
+    "section": "Code and Output in Deparate Slides",
+    "text": "Code and Output in Deparate Slides\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#tabsets-as-shown-on-quarto-website",
+    "href": "slides/templates/slide-template.html#tabsets-as-shown-on-quarto-website",
+    "title": "Template for All Slides",
+    "section": "Tabsets as Shown on Quarto Website",
+    "text": "Tabsets as Shown on Quarto Website\n\nTab ATab B\n\n\nContent for Tab A\n\n\nContent for Tab B"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#standard-quarto-callouts",
+    "href": "slides/templates/slide-template.html#standard-quarto-callouts",
+    "title": "Template for All Slides",
+    "section": "Standard Quarto callouts",
+    "text": "Standard Quarto callouts\n\n\n\n\n\n\nNote with custom title\n\n\nThese are main types of callouts: note, warning, important, tip.\n\n\n\n\n\n\n\n\n\nWarning\n\n\nThis is a warning\n\n\n\n\n\n\n\n\n\nThis is important!\n\n\nThis is an important information.\n\n\n\n\n\n\n\n\n\nTip\n\n\nBreathe!"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#customized-callouts",
+    "href": "slides/templates/slide-template.html#customized-callouts",
+    "title": "Template for All Slides",
+    "section": "Customized callouts",
+    "text": "Customized callouts\n\n\n\nExercise\n\n\nExercise text goes here\n\n\n\n\n\n\nDiscussion question\n\n\nQuestion to discuss\n\n\n\n\n\n\nExample\n\n\nHere is an example with some math symbols \\(\\alpha, \\beta\\)\n\n\n\n\n\n\nstats4cs.com"
+  },
+  {
     "objectID": "specific-content/schedule/04-week00.html",
     "href": "specific-content/schedule/04-week00.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "TBA"
+    "text": "Sept 28 - Oct 1\n Getting Ready for STATS 67\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark stats4cs.com.\n\n\n\n\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm"
   },
   {
     "objectID": "specific-content/schedule/04-week03.html",
@@ -355,229 +467,5 @@
     "title": "Stats 4 CS",
     "section": "",
     "text": "UCI Counselling Center\nThe counseling center offers free counseling to students. You do not need health insurance.\n\n\nUCI Basic Needs Center\nUCI Basic Needs Center offers services to UCI students to help them meet their basic needs including food.\n\n\nUCI Dream Center\nThe UCI DREAM Center stands with and serves those impacted by immigration policy.\n\n\nAddressing People in Academia\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nTips on Recommendation Letters for Students and Instructors\nThis blog post provides suggestions on asking for recommendation letters as part of graduate school applications"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#slide-title",
-    "href": "slides/templates/slide-template.html#slide-title",
-    "title": "Amazing lecture",
-    "section": "Slide title",
-    "text": "Slide title\nSome references to resources for making Quarto presentations.\n\nhttps://quarto.org/docs/presentations/\nhttps://quarto.org/docs/presentations/revealjs/\nLong presentation example"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#useful-formatting",
-    "href": "slides/templates/slide-template.html#useful-formatting",
-    "title": "Amazing lecture",
-    "section": "Useful formatting",
-    "text": "Useful formatting\n\\[\\text{Math:} \\qquad y = \\alpha + \\beta x + \\varepsilon\\]\ntext with footnote1.\n\n\n\n\n\nfootnotes are notes with a foot"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#useful-formatting-1",
-    "href": "slides/templates/slide-template.html#useful-formatting-1",
-    "title": "Amazing lecture",
-    "section": "Useful formatting",
-    "text": "Useful formatting\n\nInclude a quote\n\n\n---\nPseudo code\n---\n\n## Step 1\n- Draw ...\n- Set ...\n\nWritten code"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#code-display",
-    "href": "slides/templates/slide-template.html#code-display",
-    "title": "Amazing lecture",
-    "section": "Code: display",
-    "text": "Code: display\nYou can embed code like this:\n1 + 1\nYou can highlight line 1 and 3 of code like this:\n1 + 1\n2 + 2\n3 + 3"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#code-display-run-and-incrementally-highlight",
-    "href": "slides/templates/slide-template.html#code-display-run-and-incrementally-highlight",
-    "title": "Template for All Slides",
-    "section": "Code: display, run and incrementally highlight",
-    "text": "Code: display, run and incrementally highlight\n\na &lt;- 1\nb &lt;- 1\na + b\n\n[1] 2"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#section",
-    "href": "slides/templates/slide-template.html#section",
-    "title": "Amazing lecture",
-    "section": "",
-    "text": "A slide without a title (in the .qmd file the last “##” has no text next to it).\n\nInformation appears incrementally if it follows dot dot dot . . .\n\n\nTo turn off incremental, set ‘incremental: false’ in the YAML on the top of this file.\n\n\nOr turn it off for specific lists\n\n\n1st Item\n2nd Item"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#table",
-    "href": "slides/templates/slide-template.html#table",
-    "title": "Amazing lecture",
-    "section": "Table",
-    "text": "Table\n\nDemonstration of pipe table syntax\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#can-include-an-image",
-    "href": "slides/templates/slide-template.html#can-include-an-image",
-    "title": "Amazing lecture",
-    "section": "Can include an image",
-    "text": "Can include an image\nThe image below is our Bayes Bats logo, sized to fit\n\n\n\nThe Bayes Bats Logo"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#divide-slide-into-columns",
-    "href": "slides/templates/slide-template.html#divide-slide-into-columns",
-    "title": "Template for All Slides",
-    "section": "Divide slide into columns",
-    "text": "Divide slide into columns\n\n\nLeft column\n\nRight column"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#columns-can-be-useful",
-    "href": "slides/templates/slide-template.html#columns-can-be-useful",
-    "title": "Template for All Slides",
-    "section": "Columns can be useful",
-    "text": "Columns can be useful\n\n\nsummary(mtcars)\n\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#tabsets-are-cool",
-    "href": "slides/templates/slide-template.html#tabsets-are-cool",
-    "title": "Amazing lecture",
-    "section": "Tabsets are cool",
-    "text": "Tabsets are cool\n\nCodePlot\n\n\n\nx &lt;- 1:10\ny &lt;- x^2\n\nClick on Plot now (in the slide)!\n\n\n\nplot(x, y)"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#standard-callouts",
-    "href": "slides/templates/slide-template.html#standard-callouts",
-    "title": "Template for All Slides",
-    "section": "Standard callouts",
-    "text": "Standard callouts\n\n\n\n\n\n\nNote with custom title\n\n\nThese are main types of callouts: note, warning, important, tip.\n\n\n\n\n\n\n\n\n\nWarning\n\n\nDon’t make your own uniform random number generator\n\n\n\n\n\n\n\n\n\nRemember this!\n\n\nThis is an important information.\n\n\n\n\n\n\n\n\n\nTip with Title\n\n\nDo you feel inspired? (This is an example of a callout with a title.)"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#customized-callouts",
-    "href": "slides/templates/slide-template.html#customized-callouts",
-    "title": "Template for All Slides",
-    "section": "Customized callouts",
-    "text": "Customized callouts\n\n\n\nExercise\n\n\nExercise text goes here\n\n\n\n\n\n\nDiscussion question\n\n\nQuestion to discuss\n\n\n\n\n\n\nExample\n\n\nHere is an example with some math symbols \\(\\alpha, \\beta\\)\n\n\n\n\n\n\nstats4cs.com"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#colored-text",
-    "href": "slides/templates/slide-template.html#colored-text",
-    "title": "Amazing lecture",
-    "section": "Colored text",
-    "text": "Colored text\nThis shows red\nThis shows blue\nThis shows green\nThis does not shows pink (.pink-text was not defined in slides-style.scss)"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#quarto",
-    "href": "slides/templates/slide-template.html#quarto",
-    "title": "Template for All Slides",
-    "section": "Quarto",
-    "text": "Quarto\nHi Quarto! Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#bullets",
-    "href": "slides/templates/slide-template.html#bullets",
-    "title": "Template for All Slides",
-    "section": "Bullets",
-    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#code",
-    "href": "slides/templates/slide-template.html#code",
-    "title": "Template for All Slides",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#some-code",
-    "href": "slides/templates/slide-template.html#some-code",
-    "title": "Template for All Slides",
-    "section": "Some code",
-    "text": "Some code\n\nlibrary(magrittr)\nlm(mpg ~ am, data = mtcars) %&gt;% \n  broom::tidy()\n\n# A tibble: 2 × 5\n  term        estimate std.error statistic  p.value\n  &lt;chr&gt;          &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;    &lt;dbl&gt;\n1 (Intercept)    17.1       1.12     15.2  1.13e-15\n2 am              7.24      1.76      4.11 2.85e- 4"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#code-annotation",
-    "href": "slides/templates/slide-template.html#code-annotation",
-    "title": "Template for All Slides",
-    "section": "Code Annotation",
-    "text": "Code Annotation\n\nlibrary(beepr)\n1beep()\n2# a comment\n\n\n1\n\nHere we can explain what that line of code is doing.\n\n2\n\nHere we can explain that the second line is just a comment."
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#math",
-    "href": "slides/templates/slide-template.html#math",
-    "title": "Template for All Slides",
-    "section": "Math",
-    "text": "Math\nWe can add a centered equation\n\\[x+7\\beta\\]\nor left aligned:\n\\(x+7 +\\mu\\)"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#figure",
-    "href": "slides/templates/slide-template.html#figure",
-    "title": "Template for All Slides",
-    "section": "Figure",
-    "text": "Figure\nWe can add an a figure with a caption and an alternate text\n\nThis is the figure caption"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#more-code",
-    "href": "slides/templates/slide-template.html#more-code",
-    "title": "Template for All Slides",
-    "section": "More code",
-    "text": "More code\n\nlibrary(magrittr)\nlm(mpg ~ am, data = mtcars) %&gt;% \n  broom::tidy()\n\n# A tibble: 2 × 5\n  term        estimate std.error statistic  p.value\n  &lt;chr&gt;          &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;    &lt;dbl&gt;\n1 (Intercept)    17.1       1.12     15.2  1.13e-15\n2 am              7.24      1.76      4.11 2.85e- 4"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#incremental-information",
-    "href": "slides/templates/slide-template.html#incremental-information",
-    "title": "Template for All Slides",
-    "section": "Incremental Information",
-    "text": "Incremental Information\nInformation appears incrementally if it follows dot dot dot . . .\n\nTo turn off incremental, set ‘incremental: false’ in the YAML on the top of this file.\n\n\nOr turn it off for specific lists\n\n\n1st Item\n2nd Item"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#incremental-text",
-    "href": "slides/templates/slide-template.html#incremental-text",
-    "title": "Template for All Slides",
-    "section": "Incremental Text",
-    "text": "Incremental Text\nTo display text incrementally, three dots with spaces can be used on a new line . . .\n\nBy default, qmd displays bullet points and enumerated text (i.e., lists) incrementally, this can ben changed in the YAML (top) section of the document by setting incremental: false.\n\n\nOr it can be turned off for a specific part of the document\n\n\n1st Item\n2nd Item"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#display-code-incrementally",
-    "href": "slides/templates/slide-template.html#display-code-incrementally",
-    "title": "Template for All Slides",
-    "section": "Display Code Incrementally",
-    "text": "Display Code Incrementally\n\na &lt;- 1\nb &lt;- 1\na + b\n\n[1] 2"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#highlight-specific-lines-of-code",
-    "href": "slides/templates/slide-template.html#highlight-specific-lines-of-code",
-    "title": "Template for All Slides",
-    "section": "Highlight Specific Lines of Code",
-    "text": "Highlight Specific Lines of Code\n\na &lt;- 1\nb &lt;- 1\na + b\n\n[1] 2"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#columns-can-be-useful-output",
-    "href": "slides/templates/slide-template.html#columns-can-be-useful-output",
-    "title": "Template for All Slides",
-    "section": "Columns can be useful",
-    "text": "Columns can be useful\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#code-and-output-in-two-columns",
-    "href": "slides/templates/slide-template.html#code-and-output-in-two-columns",
-    "title": "Template for All Slides",
-    "section": "Code and Output in Two Columns",
-    "text": "Code and Output in Two Columns\n\n\nsummary(mtcars)\n\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#code-and-output-in-deparate-slides",
-    "href": "slides/templates/slide-template.html#code-and-output-in-deparate-slides",
-    "title": "Template for All Slides",
-    "section": "Code and Output in Deparate Slides",
-    "text": "Code and Output in Deparate Slides\n\nsummary(mtcars)"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#code-and-output-in-deparate-slides-output",
-    "href": "slides/templates/slide-template.html#code-and-output-in-deparate-slides-output",
-    "title": "Template for All Slides",
-    "section": "Code and Output in Deparate Slides",
-    "text": "Code and Output in Deparate Slides\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#tabsets-as-shown-on-quarto-website",
-    "href": "slides/templates/slide-template.html#tabsets-as-shown-on-quarto-website",
-    "title": "Template for All Slides",
-    "section": "Tabsets as Shown on Quarto Website",
-    "text": "Tabsets as Shown on Quarto Website\n\nTab ATab B\n\n\nContent for Tab A\n\n\nContent for Tab B"
-  },
-  {
-    "objectID": "slides/templates/slide-template.html#standard-quarto-callouts",
-    "href": "slides/templates/slide-template.html#standard-quarto-callouts",
-    "title": "Template for All Slides",
-    "section": "Standard Quarto callouts",
-    "text": "Standard Quarto callouts\n\n\n\n\n\n\nNote with custom title\n\n\nThese are main types of callouts: note, warning, important, tip.\n\n\n\n\n\n\n\n\n\nWarning\n\n\nThis is a warning\n\n\n\n\n\n\n\n\n\nThis is important!\n\n\nThis is an important information.\n\n\n\n\n\n\n\n\n\nTip\n\n\nBreathe!"
   }
 ]
