@@ -3,7 +3,7 @@
 
 
   
-### Introduction Data Science 
+### Introduction to Probability and Statistics for Computer Science
 University of California Irvine 
 
 Fall 2023 
