@@ -32,9 +32,9 @@ ta1:
   pronoun: "he/him"
   photo: "img/ta1.jpeg"
   audio: "ta1.mp3"
-  office-hours: "M 9:00 - 10 am and Th 9:30 - 10: 30 am in person and online"
+  office-hours: "Tu 9:00 - 10 am and Th 9:30 - 10: 30 am in person and online"
   office: "DBH 2013"
-  zoom: "TBD"
+  zoom: "https://uci.zoom.us/j/92961182974"
   
   
 ta2: 
@@ -45,7 +45,7 @@ ta2:
   audio: "ta2.mp3"
   office-hours: "M 2 - 3 pm and F 4 - 5 pm in person and online"
   office: "DBH 2013"
-  zoom: "TBD"
+  zoom: "https://uci.zoom.us/j/82669787158"
   
 ta3: 
   name: Christian Bernal Zelaya
