@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Mine Dogucu">
 
-<title>Stats 4 CS – week01</title>
+<title>Stats 4 CS - Introduction to Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +21,60 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -62,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../../style.css">
+<link rel="stylesheet" href="../style.css">
 </head>
 
 <body class="nav-fixed">
@@ -72,10 +107,10 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../img/logo.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../img/logo.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Stats 4 CS</span>
     </a>
   </div>
@@ -86,27 +121,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html" rel="" target="">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-home" aria-label="home"></i> Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../people.html" rel="" target="">
+    <a class="nav-link" href="../people.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-chalkboard-teacher" aria-label="chalkboard-teacher"></i> People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../policies.html" rel="" target="">
+    <a class="nav-link" href="../policies.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-gavel" aria-label="gavel"></i> Policies</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../schedule.html" rel="" target="">
+    <a class="nav-link" href="../schedule.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-calendar" aria-label="calendar"></i> Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../tools.html" rel="" target="">
+    <a class="nav-link" href="../tools.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-toolbox" aria-label="toolbox"></i> Tools</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../resources.html" rel="" target="">
+    <a class="nav-link" href="../resources.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-medal" aria-label="medal"></i> Resources</span></a>
   </li>  
 </ul>
@@ -148,124 +183,57 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Introduction to Data</h1>
+</div>
 
 
-<p><i class="fa-solid fa-calendar" aria-label="calendar"></i> Oct 2 - Oct 8</p>
 
-<table class="table-striped text-left table-bordered" align="center">
-<thead>
-<tr><th style="width:  3%">
-</th>
-<th style="width:  30%">
-</th>
-<th style="width:  40%">
-Notes
-</th>
-<th style="width:  8%">
-Links
-</th>
-<th style="width:  15%">
-Due
-</th>
-</tr></thead>
-<tbody><tr>
-<td>
-<input type="checkbox">
-</td>
-<td>
-Introduction to STATS 67 and Data &nbsp; &nbsp;
-</td>
-<td>
-Welcome!!!
-</td>
-<td>
-<a href="https://mdogucu.github.io/stats67-fa23-slides/week01/1a-intro-data.html" target="_blank"> <i class="fas fa-laptop" aria-hidden="true" title="External Link to Slides" target="_blank"></i></a> <a href="starter-codes/1a-intro-data.qmd" download=""> <i class="fa-brands fa-r-project" aria-hidden="true" title="External Link to Slides" target="_blank"></i></a>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-<input type="checkbox">
-</td>
-<td>
-Reading
-</td>
-<td>
-Section 1.2
-</td>
-<td>
-<a href="https://www.openintro.org/go/?id=os4_for_screen_readers&amp;referrer=/book/os/index.php" target="_blank"> <i class="fas fa-book" aria-hidden="true" title="External Link to the Book" target="_blank"></i></a>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-<input type="checkbox">
-</td>
-<td>
-Syllabus Quiz &nbsp; &nbsp;
-</td>
-<td>
-</td>
-<td>
-<a href="https://www.gradescope.com/courses/621306/assignments/3446653" target="_blank"> <i class="fas fa-edit" aria-hidden="true" title="External Link to Gradescope" target="_blank"></i></a>
-</td>
-<td>
-Oct 3, 11:59 pm
-</td>
-</tr>
-<tr>
-<td>
-<input type="checkbox">
-</td>
-<td>
-Summarizing Data &nbsp; &nbsp;
-</td>
-<td>
-Descriptive Statistics and Data Visualizations
-</td>
-<td>
-<a href="https://mdogucu.github.io/stats67-fa23-slides/week01/1b-summarize-data.html" target="_blank"> <i class="fas fa-laptop" aria-hidden="true" title="External Link to Slides" target="_blank"></i></a> <a href="starter-codes/1b-summarize-data.qmd" download=""> <i class="fa-brands fa-r-project" aria-hidden="true" title="External Link to Slides" target="_blank"></i></a>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-<input type="checkbox">
-</td>
-<td>
-Reading
-</td>
-<td>
-Chapter 2
-</td>
-<td>
-<a href="https://www.openintro.org/go/?id=os4_for_screen_readers&amp;referrer=/book/os/index.php" target="_blank"> <i class="fas fa-book" aria-hidden="true" title="External Link to the Book" target="_blank"></i></a>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-<input type="checkbox">
-</td>
-<td>
-Homework 1: First Steps with Data &nbsp; &nbsp;
-</td>
-<td>
-</td>
-<td>
-<a href="https://www.gradescope.com/courses/621306/assignments/3418163" target="_blank"> <i class="fas fa-edit" aria-hidden="true" title="External Link to Gradescope" target="_blank"></i></a>
-</td>
-<td>
-Oct 8, 11:59 pm
-</td>
-</tr>
+<div class="quarto-title-meta">
 
-</tbody></table>
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Mine Dogucu </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>Start the lecture notes by running the code that is already provided.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(fivethirtyeight)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Some larger datasets need to be installed separately, like senators and
+house_district_forecast. To install these, we recommend you install the
+fivethirtyeightdata package by running:
+install.packages('fivethirtyeightdata', repos =
+'https://fivethirtyeightdata.github.io/drat/', type = 'source')</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.3     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.2     </code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">data</span>(<span class="st">"bad_drivers"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>In the rest of this document you can take notes as you listen to the lecture.</p>
 
 
 

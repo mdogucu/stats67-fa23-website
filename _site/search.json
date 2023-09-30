@@ -18,7 +18,7 @@
     "href": "schedule.html#week-1",
     "title": "Stats 4 CS",
     "section": "Week 1",
-    "text": "Week 1\nTBA"
+    "text": "Week 1\n Oct 2 - Oct 8\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nIntroduction to STATS 67 and Data    \n\n\nWelcome!!!\n\n\n   \n\n\n\n\n\n\n\n\n\nReading\n\n\nSection 1.2\n\n\n \n\n\n\n\n\n\n\n\n\nSyllabus Quiz    \n\n\n\n\n \n\n\nOct 3, 11:59 pm\n\n\n\n\n\n\n\nSummarizing Data    \n\n\nDescriptive Statistics and Data Visualizations\n\n\n   \n\n\n\n\n\n\n\n\n\nReading\n\n\nChapter 2\n\n\n \n\n\n\n\n\n\n\n\n\nHomework 1: First Steps with Data    \n\n\n\n\n \n\n\nOct 8, 11:59 pm"
   },
   {
     "objectID": "schedule.html#week-2",
@@ -165,7 +165,7 @@
     "href": "specific-content/schedule/04-week01.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "TBA"
+    "text": "Oct 2 - Oct 8\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nIntroduction to STATS 67 and Data    \n\n\nWelcome!!!\n\n\n   \n\n\n\n\n\n\n\n\n\nReading\n\n\nSection 1.2\n\n\n \n\n\n\n\n\n\n\n\n\nSyllabus Quiz    \n\n\n\n\n \n\n\nOct 3, 11:59 pm\n\n\n\n\n\n\n\nSummarizing Data    \n\n\nDescriptive Statistics and Data Visualizations\n\n\n   \n\n\n\n\n\n\n\n\n\nReading\n\n\nChapter 2\n\n\n \n\n\n\n\n\n\n\n\n\nHomework 1: First Steps with Data    \n\n\n\n\n \n\n\nOct 8, 11:59 pm"
   },
   {
     "objectID": "people.html",
@@ -173,6 +173,13 @@
     "title": "Stats 4 CS",
     "section": "",
     "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  W 4:00 - 5:00 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Yang Meng\nhe/him\nmengy13@uci.edu\n\nOffice Hours:  Tu 9:00 - 10 am and Th 9:30 - 10: 30 am in person and online\n DBH 2013\n Zoom\n\n\n\n\n\nTeaching Assistant (TA)\n Jizhi Zhang\nhe/him\njizhiz@uci.edu\n\nOffice Hours:  M 2 - 3 pm and F 4 - 5 pm in person and online\n DBH 2013\n Zoom\n\n\n\nTeaching Assistant (TA)\n Christian Bernal Zelaya\nhe/him\ncbernalz@uci.edu"
+  },
+  {
+    "objectID": "starter-codes/1b-summarize-data.html",
+    "href": "starter-codes/1b-summarize-data.html",
+    "title": "Introduction to Data",
+    "section": "",
+    "text": "Start the lecture notes by running the code that is already provided.\n\nlibrary(fivethirtyeight)\n\nSome larger datasets need to be installed separately, like senators and\nhouse_district_forecast. To install these, we recommend you install the\nfivethirtyeightdata package by running:\ninstall.packages('fivethirtyeightdata', repos =\n'https://fivethirtyeightdata.github.io/drat/', type = 'source')\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.3     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.3     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.2     \n\n\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\ndata(\"bad_drivers\")\n\nIn the rest of this document you can take notes as you listen to the lecture."
   },
   {
     "objectID": "index.html",
@@ -278,6 +285,13 @@
     "title": "Stats 4 CS",
     "section": "Course Material Distribution",
     "text": "Course Material Distribution\nSelling, preparing, or distributing for any commercial purpose course lecture notes or video or audio recordings of any course unless authorized by the University in advance and explicitly permitted by the course instructor in writing. The unauthorized sale or commercial distribution of course notes or recordings by a student is a violation of these Policies whether or not it was the student or someone else who prepared the notes or recordings."
+  },
+  {
+    "objectID": "starter-codes/1a-intro-data.html",
+    "href": "starter-codes/1a-intro-data.html",
+    "title": "Summarize Data",
+    "section": "",
+    "text": "Start the lecture notes by running the code that is already provided.\n\nlibrary(bayesrules)\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.3     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.3     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(palmerpenguins)\ndata(hotel_bookings)\ndata(penguins)\nremove(penguins_raw)\n\nIn the rest of this document you can take notes as you listen to the lecture."
   },
   {
     "objectID": "specific-content/schedule/04-week00.html",
