@@ -18,7 +18,7 @@
     <td>Welcome!!!</td>
     <td><a href="https://mdogucu.github.io/stats67-fa23-slides/week01/1a-intro-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a>
-      <a href="starter-codes/1a-intro-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+      <a href="https://mdogucu.github.io/stats67-fa23-slides/starter-codes/1a-intro-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a></td>
     <td></td>
   </tr>
