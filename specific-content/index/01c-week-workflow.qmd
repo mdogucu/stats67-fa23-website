@@ -11,7 +11,7 @@
     	<ul class="timeline">
     	  <li> <b>Sunday 11:59 pm</b> | Previous week's homework due </li>
     	  <li> <b>Monday am</b> | You all attend lecture </li>
-    	  <li> <b>Monday 2 - 3 pm</b> | Jizhi holds office hours. </li>
+    	  <li> <b>Monday 4 - 5 pm</b> | Jizhi holds office hours. </li>
     	  <li> <b>Tuesday 9 - 10 am</b> | Yang holds office hours </li>
     	  <li> <b>Wednesday am</b> | You all attend lecture </li>
     	  <li> <b>Wednesday pm</b> | Some of you attend discussion </li>
