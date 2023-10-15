@@ -14,9 +14,9 @@
 
   <tr>
     <td><input type="checkbox" /></td>
-    <td> Sampling and Study Design &nbsp; &nbsp; </td>
+    <td> Discrete Random Variables &nbsp; &nbsp; </td>
     <td></td>
-    <td><a href="https://mdogucu.github.io/stats67-fa23-slides/week03/3b-discrete-rv.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+    <td><a href="https://mdogucu.github.io/stats67-fa23-slides/week03/3a-discrete-rv.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></td>
     <td></td>
   </tr>
