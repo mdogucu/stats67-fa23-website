@@ -43,7 +43,7 @@
     <td><input type="checkbox" /></td>
     <td> Discussion: Continuous Random Variables and Distributions &nbsp; &nbsp; </td>
     <td> </td>
-    <td> <a href="https://mdogucu.github.io/stats67-fa23-starter-codes/4d-cont-rv.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+    <td> <a href="https://mdogucu.github.io/stats67-fa23-starter-codes/4d-continuous-rv.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a></td>
     <td></td>
   </tr>
