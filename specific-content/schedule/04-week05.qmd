@@ -11,6 +11,14 @@
     <th style="width:  15%">Due</th>
   </thead>
 
+ <tr>
+    <td><input type="checkbox" /></td>
+    <td> Mock Midterm&nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://www.gradescope.com/courses/621306/assignments/3561769"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></td>
+    <td></td>
+  </tr>
 
   <tr>
     <td><input type="checkbox" /></td>
