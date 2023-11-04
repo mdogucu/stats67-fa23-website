@@ -1,1 +1,72 @@
-TBA
+{{< fa calendar >}} Nov 6 - Nov 12
+
+
+<table class="table-striped text-left table-bordered" align = "center">
+
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Introduction to Statistical Inference &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa23-slides/week06/6a-ht-clt.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Section 5.1</td>
+    <td><a href="https://www.openintro.org/go/?id=os4_for_screen_readers&referrer=/book/os/index.php" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Inference for a Single Proportion &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa23-slides/week06/6b-single-prop.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a> </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Discussion: Inference for a Single Proportion &nbsp; &nbsp; </td>
+    <td> </td>
+    <td> <a href="https://mdogucu.github.io/stats67-fa23-starter-codes/6d-single-prop.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Sections 6.1</td>
+    <td><a href="https://www.openintro.org/go/?id=os4_for_screen_readers&referrer=/book/os/index.php" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Homework 6: Inference for Single Proportion &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://www.gradescope.com/courses/621306/assignments/3632249" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+            title="External Link to Gradescope" target = "_blank"></i></a></td>
+    <td>Nov 12, 11:59 pm</td>
+  </tr>
+    
+        
+</table>
