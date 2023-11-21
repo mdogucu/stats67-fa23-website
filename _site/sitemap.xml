@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>{{< var course.site >}}/schedule.html</loc>
-    <lastmod>2023-11-21T00:47:47.873Z</lastmod>
+    <lastmod>2023-11-21T21:37:39.273Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/index/01c-week-workflow.html</loc>
-    <lastmod>2023-11-21T00:47:46.593Z</lastmod>
+    <lastmod>2023-11-21T21:37:37.929Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/index/01d-important-dates.html</loc>
-    <lastmod>2023-11-21T00:47:45.970Z</lastmod>
+    <lastmod>2023-11-21T21:37:37.314Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/policies/03b-weights.html</loc>
-    <lastmod>2023-11-21T00:47:45.340Z</lastmod>
+    <lastmod>2023-11-21T21:37:36.701Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/policies/03d-regrade.html</loc>
-    <lastmod>2023-11-21T00:47:44.637Z</lastmod>
+    <lastmod>2023-11-21T21:37:36.002Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week08.html</loc>
-    <lastmod>2023-11-21T00:47:43.984Z</lastmod>
+    <lastmod>2023-11-21T21:37:35.345Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week04.html</loc>
-    <lastmod>2023-11-21T00:47:43.311Z</lastmod>
+    <lastmod>2023-11-21T21:37:34.602Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week11.html</loc>
-    <lastmod>2023-11-21T00:47:42.636Z</lastmod>
+    <lastmod>2023-11-21T21:37:33.930Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week07.html</loc>
-    <lastmod>2023-11-21T00:47:41.941Z</lastmod>
+    <lastmod>2023-11-21T21:37:33.256Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week02.html</loc>
-    <lastmod>2023-11-21T00:47:41.208Z</lastmod>
+    <lastmod>2023-11-21T21:37:32.536Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week01.html</loc>
-    <lastmod>2023-11-21T00:47:40.466Z</lastmod>
+    <lastmod>2023-11-21T21:37:31.829Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/people.html</loc>
-    <lastmod>2023-11-21T00:47:39.721Z</lastmod>
+    <lastmod>2023-11-21T21:37:31.080Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/index.html</loc>
-    <lastmod>2023-11-21T00:47:38.649Z</lastmod>
+    <lastmod>2023-11-21T21:37:30.053Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/tools.html</loc>
-    <lastmod>2023-11-21T00:47:37.899Z</lastmod>
+    <lastmod>2023-11-21T21:37:29.337Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/policies.html</loc>
-    <lastmod>2023-11-21T00:47:39.359Z</lastmod>
+    <lastmod>2023-11-21T21:37:30.726Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week00.html</loc>
-    <lastmod>2023-11-21T00:47:40.084Z</lastmod>
+    <lastmod>2023-11-21T21:37:31.438Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week03.html</loc>
-    <lastmod>2023-11-21T00:47:40.836Z</lastmod>
+    <lastmod>2023-11-21T21:37:32.186Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week06.html</loc>
-    <lastmod>2023-11-21T00:47:41.582Z</lastmod>
+    <lastmod>2023-11-21T21:37:32.903Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week05.html</loc>
-    <lastmod>2023-11-21T00:47:42.304Z</lastmod>
+    <lastmod>2023-11-21T21:37:33.611Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week10.html</loc>
-    <lastmod>2023-11-21T00:47:42.943Z</lastmod>
+    <lastmod>2023-11-21T21:37:34.224Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/schedule/04-week09.html</loc>
-    <lastmod>2023-11-21T00:47:43.615Z</lastmod>
+    <lastmod>2023-11-21T21:37:34.982Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/policies/03c-late-policy.html</loc>
-    <lastmod>2023-11-21T00:47:44.296Z</lastmod>
+    <lastmod>2023-11-21T21:37:35.662Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/policies/03a-assessment.html</loc>
-    <lastmod>2023-11-21T00:47:45.023Z</lastmod>
+    <lastmod>2023-11-21T21:37:36.385Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/index/01b-course-goals.html</loc>
-    <lastmod>2023-11-21T00:47:45.656Z</lastmod>
+    <lastmod>2023-11-21T21:37:37.013Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/specific-content/index/01a-course-description.html</loc>
-    <lastmod>2023-11-21T00:47:46.284Z</lastmod>
+    <lastmod>2023-11-21T21:37:37.626Z</lastmod>
   </url>
   <url>
     <loc>{{< var course.site >}}/resources.html</loc>
-    <lastmod>2023-11-21T00:47:46.920Z</lastmod>
+    <lastmod>2023-11-21T21:37:38.250Z</lastmod>
   </url>
 </urlset>
