@@ -40,13 +40,21 @@
   
   <tr>
     <td><input type="checkbox" /></td>
-    <td> No discussion but videos will be shared &nbsp; &nbsp; </td>
-    <td> </td>
-    <td> </td>
+    <td> No real-time discussion session  &nbsp; &nbsp; </td>
+    <td> You can watch these videos instead</td>
+    <td> <a href="https://uci.yuja.com/V/Video?v=9173621&node=39288835&a=86735585&autoplay=1" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
+            title="External Link to Video" target = "_blank"></i> </td>
     <td></td>
   </tr>
   
-  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> No real-time discussion session  &nbsp; &nbsp; </td>
+    <td> You can watch these videos instead</td>
+    <td> <a href="" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
+            title="External Link to Video" target = "_blank"></i> </td>
+    <td></td>
+  </tr>
   
   
   <tr>
